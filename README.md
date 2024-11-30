@@ -5,6 +5,6 @@
   - Email: sitthipong.kl@ku.th
 
 - My picture
-  - [Me](WIN_25671130_14_02_22_Pro.jpg)
+  - ![Me](WIN_25671130_14_02_22_Pro.jpg)
 
 - *[integrity](https://6530200282.github.io/integrity)* 
