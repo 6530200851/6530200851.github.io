@@ -9,5 +9,3 @@
 
 - *[integrity](https://6530200851.github.io/integrity)* 
 
-- My Buddy
-- [6530200282 piyaphum ](https://6530200282.github.io/integrity)
