@@ -41,7 +41,3 @@ Overcoming this need to carefully examine the collection of data process and try
 - การรับข้อมูลจากแบบฟอร์มที่ไม่ตรงกับผู้สร้างแบบฟอร์มต้องการ เช่น ให้กรอกเลขที่ แต่กรอกวันเกิด หรือ การไม่กรอกข้อมูลเลย
 - การล่มของระบบหรือเกิดเหตุขัดข้อง เช่น ไฟดับแล้วเซฟข้อมูลไม่ครบถ้วนจนข้อมูลขาดหายไป
 
----
-
-## **Conclusion**
-Incomplete data can have significant negative effects on organizations, leading to poor decision-making, loss of revenue, and customer dissatisfaction. It is crucial to implement effective data collection, validation, and management processes to ensure data integrity and accuracy. Technology can play a key role in automating these processes, reducing human error, and improving operational efficiency.
