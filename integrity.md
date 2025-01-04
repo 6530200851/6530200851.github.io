@@ -16,7 +16,7 @@
 
 - สรุป
   - มันคือการรักษาข้อมูลเพื่อให้ข้อมูลมีความน่าเชื่อถือและมีความปลอดภัยในการนำไปใช้
-  - [cissp](https://www.isc2.org/certifications/cissp/cissp-student-glossary#l)
+  - [cissp](https://www.isc2.org/certifications/cissp/cissp-student-glossary#lntegrity)
   - [csrc](https://csrc.nist.gov/glossary/term/integrity)
 
 - ตัวอย่าง Integrity ในชีวิตประจำวัน
