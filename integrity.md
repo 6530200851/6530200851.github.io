@@ -16,7 +16,7 @@
 
 - สรุป
   - มันคือการรักษาข้อมูลเพื่อให้ข้อมูลมีความน่าเชื่อถือและมีความปลอดภัยในการนำไปใช้
-  - [cissp](https://www.isc2.org/certifications/cissp/cissp-student-glossary#lntegrity)
+  - [cissp](https://www.isc2.org/certifications/cissp/cissp-student-glossary#lntegrity):Guarding against improper information modification or destruction and includes ensuring information non-repudiation and authenticity.
   - [csrc](https://csrc.nist.gov/glossary/term/integrity)
 
 - ตัวอย่าง Integrity ในชีวิตประจำวัน
