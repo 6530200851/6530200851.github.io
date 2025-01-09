@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -53,12 +52,12 @@
     <h2>Gemini:</h2>
     <p>ความสมบูรณ์และความถูกต้องของข้อมูล นั่นคือ ข้อมูลที่เราเก็บไว้หรือส่งผ่านนั้นจะต้องไม่ถูกเปลี่ยนแปลง แก้ไข หรือทำลายโดยไม่ได้รับอนุญาต ไม่ว่าจะเป็นการตั้งใจหรือโดยบังเอิญ</p>
 
-    <h2>นิยามจากแหล่งข้อมูลที่เกี่ยวข้อง</h2>
-    <ul>
-      <li><strong>CISSP:</strong> Guarding against improper information modification or destruction and includes ensuring information non-repudiation and authenticity. (<a href="https://www.isc2.org/certifications/cissp/cissp-student-glossary#lntegrity" target="_blank">แหล่งที่มา</a>)</li>
-      <li><strong>CSRC (NIST):</strong> Guarding against improper information modification or destruction, and includes ensuring information non-repudiation and authenticity. (<a href="https://csrc.nist.gov/glossary/term/integrity" target="_blank">แหล่งที่มา</a>)</li>
-    </ul>
+    <h2>CISSP</h2>
+    <p>Guarding against improper information modification or destruction and includes ensuring information non-repudiation and authenticity.(<a href="https://www.isc2.org/certifications/cissp/cissp-student-glossary#lntegrity" target="_blank">แหล่งที่มา</a>)<p>
 
+    <h2>CSRC</h2>
+    <p>Guarding against improper information modification or destruction, and includes ensuring information non-repudiation and authenticity. (<a href="https://csrc.nist.gov/glossary/term/integrity" target="_blank">แหล่งที่มา</a>)<p>
+    
     <h2>สรุป</h2>
     <p>Integrity หมายถึงการรักษาข้อมูลเพื่อให้ข้อมูลมีความน่าเชื่อถือและมีความปลอดภัยในการนำไปใช้ โดยเน้นการป้องกันข้อมูลจากการเปลี่ยนแปลงหรือทำลายโดยไม่ได้รับอนุญาต</p>
 
