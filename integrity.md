@@ -1,27 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Integrity</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 0;
+      padding: 0;
+      background-color: #f4f4f9;
+      color: #333;
+    }
+    .container {
+      max-width: 800px;
+      margin: 20px auto;
+      padding: 20px;
+      background: #fff;
+      border-radius: 8px;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    }
+    h1, h2 {
+      color: #0056b3;
+    }
+    a {
+      color: #007bff;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    ul {
+      list-style: disc;
+      margin-left: 20px;
+    }
+    .footer {
+      margin-top: 20px;
+      font-size: 0.9em;
+      text-align: center;
+      color: #666;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>ความหมายของ Integrity</h1>
 
-# ความหมายของ Integrity
+    <h2>ChatGPT:</h2>
+    <p>ความถูกต้องและความสมบูรณ์ของข้อมูล รวมถึงการปกป้องข้อมูลจากการถูกเปลี่ยนแปลงโดยไม่ได้รับอนุญาต หรือถูกทำลายโดยไม่ตั้งใจหรือเจตนา</p>
 
-| **หัวข้อ**              | **Integrity (ความสมบูรณ์)**                                                                                                  |
-|--------------------------|-----------------------------------------------------------------------------------------------------------------------------|
-| **คำจำกัดความ**        | การรักษาความสมบูรณ์ของทั้งข้อมูลและระบบ เพื่อให้มั่นใจว่าข้อมูลและระบบไม่ถูกเปลี่ยนแปลงโดยไม่ได้รับอนุญาต และสามารถทำงานได้ตามที่ออกแบบไว้ |
-| **เป้าหมาย**           | มุ่งเน้นที่ **ความถูกต้อง**, **ความครบถ้วน** และ **ความเชื่อถือได้** ทั้งในข้อมูลและระบบ                                    |
-| **ความสำคัญ**          | เพื่อป้องกันการสูญหาย ดัดแปลง หรือการทำงานผิดพลาดของข้อมูลและระบบ ซึ่งอาจส่งผลกระทบต่อความปลอดภัยและความน่าเชื่อถือ          |
-| **ตัวอย่างการใช้งาน**   | - การตรวจสอบความถูกต้องของข้อมูลด้วย **Checksum** หรือ **Hashing**                                                          |
-|                          | - การป้องกันการเปลี่ยนแปลงข้อมูลในฐานข้อมูล                                                                                |
-|                          | - การใช้ **Firewall**, **Antivirus** เพื่อป้องกันการเปลี่ยนแปลงระบบโดยไม่ได้รับอนุญาต                                      |
-| **วิธีการรักษา**        | - ใช้ **Encryption** เพื่อป้องกันการเปลี่ยนแปลงของข้อมูล                                                                     |
-|                          | - จำกัดสิทธิ์การเข้าถึงข้อมูลและระบบโดยใช้ **Access Control**                                                              |
-|                          | - อัปเดตระบบและซอฟต์แวร์เพื่อปิดช่องโหว่                                                                                   |
+    <h2>Gemini:</h2>
+    <p>ความสมบูรณ์และความถูกต้องของข้อมูล นั่นคือ ข้อมูลที่เราเก็บไว้หรือส่งผ่านนั้นจะต้องไม่ถูกเปลี่ยนแปลง แก้ไข หรือทำลายโดยไม่ได้รับอนุญาต ไม่ว่าจะเป็นการตั้งใจหรือโดยบังเอิญ</p>
 
+    <h2>นิยามจากแหล่งข้อมูลที่เกี่ยวข้อง</h2>
+    <ul>
+      <li><strong>CISSP:</strong> Guarding against improper information modification or destruction and includes ensuring information non-repudiation and authenticity. (<a href="https://www.isc2.org/certifications/cissp/cissp-student-glossary#lntegrity" target="_blank">แหล่งที่มา</a>)</li>
+      <li><strong>CSRC (NIST):</strong> Guarding against improper information modification or destruction, and includes ensuring information non-repudiation and authenticity. (<a href="https://csrc.nist.gov/glossary/term/integrity" target="_blank">แหล่งที่มา</a>)</li>
+    </ul>
 
-- สรุป
-  - มันคือการรักษาข้อมูลเพื่อให้ข้อมูลมีความน่าเชื่อถือและมีความปลอดภัยในการนำไปใช้
-  - [cissp](https://www.isc2.org/certifications/cissp/cissp-student-glossary#lntegrity):Guarding against improper information modification or destruction and includes ensuring information non-repudiation and authenticity.
-  - [csrc](https://csrc.nist.gov/glossary/term/integrity)
+    <h2>สรุป</h2>
+    <p>Integrity หมายถึงการรักษาข้อมูลเพื่อให้ข้อมูลมีความน่าเชื่อถือและมีความปลอดภัยในการนำไปใช้ โดยเน้นการป้องกันข้อมูลจากการเปลี่ยนแปลงหรือทำลายโดยไม่ได้รับอนุญาต</p>
 
-- ตัวอย่าง Integrity ในชีวิตประจำวัน
-  - ระบบรักษาความปลอดภัยในบ้าน (Smart Home):
-    ระบบกล้องวงจรปิดและเซ็นเซอร์ในบ้านต้องทำงานอย่างเสถียร เช่น ส่งการแจ้งเตือนเมื่อมีการบุกรุก หากระบบถูกดัดแปลงหรือทำงานผิดพลาด เจ้าของบ้านอาจไม่ได้รับการแจ้งเตือนที่สำคัญ
+    <h2>ตัวอย่าง Integrity ในชีวิตประจำวัน</h2>
+    <p><strong>ระบบรักษาความปลอดภัยในบ้าน (Smart Home):</strong> ระบบกล้องวงจรปิดและเซ็นเซอร์ในบ้านต้องทำงานอย่างเสถียร เช่น ส่งการแจ้งเตือนเมื่อมีการบุกรุก หากระบบถูกดัดแปลงหรือทำงานผิดพลาด เจ้าของบ้านอาจไม่ได้รับการแจ้งเตือนที่สำคัญ</p>
 
-- My Buddy
-  - [6530200282 Piyaphum Muetkhambong ](https://piyaphum.github.io/integrity)
+    <h2>My Buddy</h2>
+    <p><a href="https://piyaphum.github.io/integrity" target="_blank">6530200282 Piyaphum Muetkhambong</a></p>
+
+    <div class="footer">
+      <p>&copy; 2025 | Integrity Example</p>
+    </div>
+  </div>
+</body>
+</html>
