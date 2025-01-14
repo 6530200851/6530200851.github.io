@@ -70,6 +70,4 @@
     <div class="footer">
       <p>&copy; 2025 | Integrity Example</p>
     </div>
-  </div>
-</body>
-</html>
+
