@@ -1,4 +1,3 @@
-</head>
 <body>
     <div class="container">
         <h1>🔒 Security Control</h1>
@@ -17,4 +16,3 @@
         </div>
     </div>
 </body>
-</html>
