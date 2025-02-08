@@ -1,6 +1,6 @@
 Security Control
 
-![eCard](image/eCard.png)
+![cctv](image/cctv.jpg)
 
 กล้องCCTV
 
