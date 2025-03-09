@@ -3,7 +3,6 @@ Group : Khaophat Kung
 ![bordgame1](image/bordgame1.jpg)
 ![bordgame2](image/bordgame2.jpg)
 ![bordgame3](image/bordgame3.jpg)
-![bordgame4](image/bordgame4.jpg)
 
 กิจกรรมนี้จัดขึ้นโดยกลุ่ม “Khaophat Kung” ซึ่งเป็นนิสิตสาขา Computer Science โดยใช้บอร์ดเกมของสำนักงานคณะกรรมการการรักษาความมั่นคงปลอดภัยไซเบอร์ (สกมช.) เพื่อสร้างความตระหนักรู้และเสริมสร้างทักษะด้านการรักษาความมั่นคงปลอดภัยไซเบอร์ให้กับเด็กและเยาวชน
 
@@ -13,7 +12,7 @@ Group : Khaophat Kung
 
 บรรยากาศกิจกรรม (Video)
 Video
-![bordgame5](image/bordgame5.jpg)
+![bordgame4](image/bordgame4.jpg)
 
 
 (เมื่อวันที่ 9 มกราคม 2568 เวลาประมาณ 13.00 น. ณ บริเวณหอใน ตึก 3 มหาวิทยาลัยเกษตรศาสตร์ วิทยาเขตศรีราชา)
