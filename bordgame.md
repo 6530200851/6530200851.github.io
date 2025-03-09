@@ -12,7 +12,7 @@ Group : Khaophat Kung
 
 บรรยากาศกิจกรรม (Video) *[bordgame](https://www.youtube.com/watch?v=AhBi6ux9CI0&t=14s)*
 
-![bordgame4](image/bordgame.jpg)
+![bordgame4](image/bordgame4.jpg)
 
 
 (เมื่อวันที่ 9 มกราคม 2568 เวลาประมาณ 13.00 น. ณ บริเวณหอใน ตึก 3 มหาวิทยาลัยเกษตรศาสตร์ วิทยาเขตศรีราชา)
