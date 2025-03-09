@@ -1,8 +1,8 @@
 Securing the Human
 Group : Khaophat Kung
-![boradgame1](image/boradgame1.jpg)
-![boradgame2](image/boradgame2.jpg)
-![boradgame3](image/boradgame3.jpg)
+![boardgame1](image/boardgame1.jpg)
+![boardgame2](image/boardgame2.jpg)
+![boardgame3](image/boardgame3.jpg)
 
 กิจกรรมนี้จัดขึ้นโดยกลุ่ม “Khaophat Kung” ซึ่งเป็นนิสิตสาขา Computer Science โดยใช้บอร์ดเกมของสำนักงานคณะกรรมการการรักษาความมั่นคงปลอดภัยไซเบอร์ (สกมช.) เพื่อสร้างความตระหนักรู้และเสริมสร้างทักษะด้านการรักษาความมั่นคงปลอดภัยไซเบอร์ให้กับเด็กและเยาวชน
 
@@ -12,7 +12,7 @@ Group : Khaophat Kung
 
 บรรยากาศกิจกรรม (Video) *[boradgame](https://www.youtube.com/watch?v=AhBi6ux9CI0&t=14s)*
 
-![boradgame4](image/boradgame4.jpg)
+![boardgame4](image/boardgame4.jpg)
 
 
 (เมื่อวันที่ 9 มกราคม 2568 เวลาประมาณ 13.00 น. ณ บริเวณหอใน ตึก 3 มหาวิทยาลัยเกษตรศาสตร์ วิทยาเขตศรีราชา)
