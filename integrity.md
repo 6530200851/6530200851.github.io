@@ -1,28 +1,27 @@
-#Integrity
+# Integrity
 
-##Definition : CISSP
-  ###ความหมาย 
-  Guarding against improper information modification or destruction and includes ensuring information non-repudiation and authenticity.
-  
-  ###Chat-GPT 
-  เป็นการป้องกันข้อมูลจากการถูกแก้ไขหรือทำลายโดยไม่ได้รับอนุญาต และยืนยันความถูกต้องและความน่าเชื่อถือของข้อมูล
+## Definition: CISSP
+ความหมาย  
+Guarding against improper information modification or destruction and includes ensuring information non-repudiation and authenticity.
 
-  ###Gemini
-  การปกป้องข้อมูลไม่ให้ถูกแก้ไข เปลี่ยนแปลง หรือทำลายโดยไม่ได้รับอนุญาต รวมถึงการตรวจสอบยืนยันว่าข้อมูลนั้นเป็นของจริงและมาจากแหล่งที่มาที่ถูกต้อง
----
-##Definition : NIST
-  ###ความหมาย 
-  Guarding against improper information modification or destruction, and includes ensuring information non-repudiation and authenticity.
-  
-  ###Chat-GPT
-  การป้องกันการแก้ไขหรือทำลายข้อมูลโดยมิชอบ รวมถึงการรับรองความถูกต้องและความน่าเชื่อถือของข้อมูล
+Chat-GPT  
+เป็นการป้องกันข้อมูลจากการถูกแก้ไขหรือทำลายโดยไม่ได้รับอนุญาต และยืนยันความถูกต้องและความน่าเชื่อถือของข้อมูล
 
-  ###Gemini
-  การป้องกันการแก้ไขหรือทำลายข้อมูลที่ไม่เหมาะสม และรวมถึงการรับรองการปฏิเสธความรับผิดชอบและ ความถูกต้องของข้อมูล
+Gemini  
+การปกป้องข้อมูลไม่ให้ถูกแก้ไข เปลี่ยนแปลง หรือทำลายโดยไม่ได้รับอนุญาต รวมถึงการตรวจสอบยืนยันว่าข้อมูลนั้นเป็นของจริงและมาจากแหล่งที่มาที่ถูกต้อง
 
-##สรุปด้วยตัวเอง
+## Definition: NIST
+ความหมาย  
+Guarding against improper information modification or destruction, and includes ensuring information non-repudiation and authenticity.
+
+Chat-GPT  
+การป้องกันการแก้ไขหรือทำลายข้อมูลโดยมิชอบ รวมถึงการรับรองความถูกต้องและความน่าเชื่อถือของข้อมูล
+
+Gemini  
+การป้องกันการแก้ไขหรือทำลายข้อมูลที่ไม่เหมาะสม และรวมถึงการรับรองการปฏิเสธความรับผิดชอบและความถูกต้องของข้อมูล
+
+## สรุปด้วยตัวเอง
 มันคือการรักษาข้อมูลเพื่อให้ข้อมูลมีความน่าเชื่อถือและมีความปลอดภัยในการนำไปใช้
----
 ## ตัวอย่าง Integrity ในชีวิตประจำวัน
 
 ### 1. ระบบรักษาความปลอดภัยในบ้าน (Smart Home)
